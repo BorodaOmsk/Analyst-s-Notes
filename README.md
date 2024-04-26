@@ -8,9 +8,9 @@
 - [User Story and User Story map](/User%20Story/User%20Story.md)
 - [Как написать хорошую пользовательскую историю ](/INVEST/invest.md)
 - [8 методов для декомпозиции пользовательских историй ](/Splitting%20User%20Stories/Splitting.md)
+- [Как написать критерии приемки: Определение, форматы, примеры](/How%20to%20write%20acceptance%20criteria/How%20to%20write%20acceptance%20criteria.md)
 - [Варианты использования (Use Case text)](/Use%20Case/Use%20Case%20text.md)
 - [Что такое Entity Relationship Diagram (ERD)? ](/Database/Entity%20Relationship%20Diagram%20(ERD)/ERD.md)
-
 
 
 ## UML
