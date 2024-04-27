@@ -34,6 +34,16 @@
 - [Типы индексов базы данных Postgres](/Database/Type%20of%20indexes%20Postgres/type%20of%20indexes.md)
 - [10 лучших практик индексирования базы данных Postgres](/Database/Database%20Indexes/10%20Index%20Best%20Practices.md)
 
+## RabbitMQ vs Kafka
+
+- [Разница между брокером сообщений и системой обмена сообщениями Publish/Subscribe (Pub/Sub)](/Message%20Broker/Message%20Broker%20and%20a%20Publish-Subscribe.md)
+- [Что такое RabbitMQ?](/Message%20Broker/RabbitMQ.md)
+- [Что такое Kafka?](/Message%20Broker/Kafka.md)
+- [Система на основе RabbitMQ/AMQP в сравнении с Kafka](/Message%20Broker/Rabbitmq%20vs.%20Kafka.md)
+
+
+
+
 
 
 
