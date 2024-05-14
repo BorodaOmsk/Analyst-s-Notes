@@ -41,6 +41,11 @@
 - [Что такое Kafka?](/Message%20Broker/Kafka.md)
 - [Система на основе RabbitMQ/AMQP в сравнении с Kafka](/Message%20Broker/Rabbitmq%20vs.%20Kafka.md)
 
+## Data Structure
+
+- [Учебник по структурам данных](/Data%20Structures%20Tutorial/Data%20Structures%20Tutorial.md)
+- [Введение в структуры данных](/Data%20Structures%20Tutorial/Introduction%20to%20Data%20Structures.md)
+
 
 
 
