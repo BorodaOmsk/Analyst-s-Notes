@@ -46,6 +46,9 @@
 - [Учебник по структурам данных](/Data%20Structures%20Tutorial/Data%20Structures%20Tutorial.md)
 - [Введение в структуры данных](/Data%20Structures%20Tutorial/Introduction%20to%20Data%20Structures.md)
 
+## Algorithms
+
+- [Учебник по алгоритмам](/Algorithms/Algorithms%20Tutorial.md)
 
 
 
