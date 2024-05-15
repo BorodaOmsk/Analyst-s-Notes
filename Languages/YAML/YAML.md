@@ -79,11 +79,15 @@ YAML также используется для создания протоко�
 ---
 
  `---`
+
 player: playerOne
 action: attack (miss)
+
  `---`
+
 player: playerTwo
 action: attack (hit)
+
  `---`
 
  ---
