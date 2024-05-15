@@ -99,9 +99,13 @@ YAML позволяет добавлять комментарии к файла�
 ---
 
 `key: **#Here is a single-line comment**`
+
    `- value line 5`
+
   `#Here is a`
+
   ` #multi-line comment`
+
  `- value line 13`
 
 ---
@@ -115,11 +119,15 @@ YAML позволяет добавлять комментарии к файла�
 
 ---
 
-Imaro:
-   author: Charles R. Saunders
-   language: English
-   publication-year: 1981
-   pages: 224
+`Imaro:`
+
+   `author: Charles R. Saunders`
+
+   `language: English`
+
+   `publication-year: 1981`
+
+   `pages: 224`
 
 ---
 
@@ -128,12 +136,19 @@ Imaro:
 ---
 
 {
+
   "Imaro": {
+
     "author": "Charles R. Saunders",
+
     "language": "English",
+
      "publication-year": "1981",
+
      "pages": 224,
+
   }
+  
 }
 
 ---
