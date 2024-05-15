@@ -148,7 +148,7 @@ YAML позволяет добавлять комментарии к файла�
      "pages": 224,
 
   }
-  
+
 }
 
 ---
@@ -162,10 +162,15 @@ YAML обеспечивает универсальность типизации 
 ---
 
 `#The value should be an int:`
+
 `is-an-int: !!int 14.10`
+
 `#Turn any value to a string:`
+
 `is-a-str: !!str 67.43`
+
 `#The next value should be a boolean:`
+
 `is-a-bool: !!bool true`
 
 ---
@@ -197,17 +202,25 @@ Scalars представляют одно сохраненное значени�
 ---
 
 `integer: 25`
+
 `hex: 0x12d4 #evaluates to 4820`
+
 `octal: 023332 #evaluates to 9946`
 
+
 `float: 25.0`
-`exponent: 12.3015e+05 #evaluates to 1230150.0`
+
+`exponent: 12.3015e+05 #evaluates to 
+1230150.0`
 
 `boolean: Yes`
+
 `string: "25"`
 
 `infinity: .inf # evaluates to infinity`
+
 `neginf: -.Inf #evaluates to negative infinity`
+
 `not: .NAN #Not a Number`
 
 ---
@@ -221,13 +234,21 @@ Scalars представляют одно сохраненное значени�
 ---
 
 `str: Hello World`
+
 `data: |`
+
    `These`
+
    `Newlines`
+
    `Are broken up`
+
 `data: >`
+
    `This text is`
+
    `wrapped and is a`
+
    `single paragraph`
 
 ---
@@ -242,9 +263,13 @@ Scalars представляют одно сохраненное значени�
 
 
 `#Shopping List Sequence in Block Style`
+
 `shopping:` 
+
 `- milk`
+
 `- eggs`
+
 `- juice`
 
 ---
@@ -254,6 +279,7 @@ Scalars представляют одно сохраненное значени�
 ---
 
 `#Shopping List Sequence in Flow Style`
+
 `shopping: [milk, eggs, juice]`
 
 ---
@@ -267,14 +293,23 @@ Scalars представляют одно сохраненное значени�
 ---
 
 `#An employee record`
+
 `Employees: `
+
 `- dan:`
+
     `name: Dan D. Veloper`
+
     `job: Developer`
+
     `team: DevOps`
+
 `- dora:`
+
    `name: Dora D. Veloper`
+
    `job: Project Manager`
+   
    `team: Web Subscriptions`
 
 ---
