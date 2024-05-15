@@ -219,7 +219,9 @@ Scalars представляют одно сохраненное значени�
 
 `infinity: .inf # evaluates to infinity`
 
+
 `neginf: -.Inf #evaluates to negative infinity`
+
 
 `not: .NAN #Not a Number`
 
@@ -309,7 +311,7 @@ Scalars представляют одно сохраненное значени�
    `name: Dora D. Veloper`
 
    `job: Project Manager`
-   
+
    `team: Web Subscriptions`
 
 ---
