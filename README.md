@@ -50,6 +50,9 @@
 
 - [Учебник по алгоритмам](/Algorithms/Algorithms%20Tutorial.md)
 
+## Languages
+
+- [YAML](/Languages/YAML/YAML.md)
 
 
 
