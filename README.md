@@ -56,6 +56,7 @@
 ## Languages
 
 - [YAML](/Languages/YAML/YAML.md)
+- [JSON](/Languages/JSON/json.md)
 
 ## Tools
 
