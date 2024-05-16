@@ -22,6 +22,7 @@
 
 - [Что такое API ?](/API/What%20is%20an%20API/What%20is%20an%20API.md)
 - [Типы API](/API/Different%20types%20of%20APIs/types%20of%20API.md)
+- [Как создать исчерпывающую документацию по API](/API/How%20to%20create%20comprehensive%20API%20documentation/API%20documentation.md)
 
 
 
