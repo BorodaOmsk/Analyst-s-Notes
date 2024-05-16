@@ -22,7 +22,7 @@
 
 - [Что такое API ?](/API/What%20is%20an%20API/What%20is%20an%20API.md)
 - [Типы API](/API/Different%20types%20of%20APIs/types%20of%20API.md)
-- [Пять общих разделов в документах по REST API (черновик)](/API/Five%20common%20sections%20in%20REST%20API%20docs/Five%20common%20sections%20in%20REST%20API%20docs.md)
+
 
 
 ## Микросервисы
