@@ -15,7 +15,7 @@
 
 ## UML
 - [Руководство по типам диаграмм UML](/UML%20Diagram%20Types%20Guide/UML%20Diagram%20Types%20Guide.md)
-- [UML Use Case diagrams (черновик)](/Use%20Case/Use%20Case(UML).md)
+- [Use Case diagrams](/Use%20Case/Use%20Case(UML).md)
 
 
 ## API
