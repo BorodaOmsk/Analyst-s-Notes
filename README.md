@@ -26,9 +26,7 @@
 - [Как создать исчерпывающую документацию API](/API/How%20to%20create%20comprehensive%20API%20documentation/API%20documentation.md)
 
 
-
-
-## Микросервисы
+## Microservices
 - [Руководство по микросервисам](/Microservices/The%20Complete%20Microservices%20Guide.md)
 
 ## Database
