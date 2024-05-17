@@ -24,6 +24,7 @@
 - [Типы API](/API/Different%20types%20of%20APIs/types%20of%20API.md)
 - [gRPC против REST: различия между архитектурными стилями API](/API/gRPC%20vs%20REST/gRPC%20vs%20REST.md)
 - [Как создать исчерпывающую документацию API](/API/How%20to%20create%20comprehensive%20API%20documentation/API%20documentation.md)
+- [Что такое Open API? Преимущества, недостатки и примеры](/API/Open%20API/Open%20API.md)
 
 
 ## Microservices
