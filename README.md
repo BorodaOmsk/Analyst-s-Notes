@@ -51,7 +51,7 @@
 
 - [Учебник по алгоритмам](/Algorithms/Algorithms%20Tutorial.md)
 
-## Languages and Binary data framework and File format
+## Languages, Binary data framework, File format
 
 - [YAML](/Languages/YAML/YAML.md)
 - [JSON](/Languages/JSON/json.md)
