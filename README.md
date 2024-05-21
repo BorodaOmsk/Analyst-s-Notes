@@ -4,6 +4,7 @@
 
 ## Требования
 - [Иерархия требований к продукту ](/Product%20Requirements%20Hierarchy/product%20requirements%20hierarchy.md)
+- [Методы сбора требований](/Techniques%20for%20Requirement%20Gathering/Techniques%20for%20Requirement%20Gathering.md)
 - [Функциональные и нефункциональные требования](/Functional%20VS%20Non-Functional/Functional%20VS%20Non-Functional.md)
 - [User Story and User Story map](/User%20Story/User%20Story.md)
 - [Как написать хорошую пользовательскую историю ](/INVEST/invest.md)
@@ -56,6 +57,7 @@
 
 - [YAML](/Languages/YAML/YAML.md)
 - [JSON](/Languages/JSON/json.md)
+- [XML](/Languages/XML/xml.md)
 - [MessagePack VS Protocol Buffers](/Languages/MessagePack%20VS%20Protocol%20Buffers/binary%20data%20frameworks.md)
 
 ## Tools
