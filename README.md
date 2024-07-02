@@ -2,11 +2,16 @@
 Полезные материалы для "Системного аналитика"
 
 
+## SDLC
+
+- [Что такое SDLC?](/What%20is%20SDLC/What%20is%20SDLC.md)
+
 ## Требования
 - [Иерархия требований к продукту ](/Product%20Requirements%20Hierarchy/product%20requirements%20hierarchy.md)
 - [Методы сбора требований](/Techniques%20for%20Requirement%20Gathering/Techniques%20for%20Requirement%20Gathering.md)
 - [Функциональные и нефункциональные требования](/Functional%20VS%20Non-Functional/Functional%20VS%20Non-Functional.md)
 - [User Story and User Story map](/User%20Story/User%20Story.md)
+- [Какие выводы можно сделать, получив user story map проекта?](/Requirements/what%20conclusions%20can%20be%20drawn%20from%20the%20user%20story%20map%20of%20a%20project/what%20conclusions%20can%20be%20drawn%20from%20the%20user%20story%20map%20of%20a%20project.md)
 - [Как написать хорошую пользовательскую историю ](/INVEST/invest.md)
 - [8 методов для декомпозиции пользовательских историй ](/Splitting%20User%20Stories/Splitting.md)
 - [Как написать критерии приемки: Определение, форматы, примеры](/How%20to%20write%20acceptance%20criteria/How%20to%20write%20acceptance%20criteria.md)
@@ -26,14 +31,19 @@
 - [gRPC против REST: различия между архитектурными стилями API](/API/gRPC%20vs%20REST/gRPC%20vs%20REST.md)
 - [Как создать исчерпывающую документацию API](/API/How%20to%20create%20comprehensive%20API%20documentation/API%20documentation.md)
 - [Что такое Open API? Преимущества, недостатки и примеры](/API/Open%20API/Open%20API.md)
+- [Пример cоздание Swagger-документации](/API/Creating%20Swagger%20documentation%20example/Creating%20Swagger%20documentation%20example.md)
 
 
 ## Microservices
 - [Руководство по микросервисам](/Microservices/The%20Complete%20Microservices%20Guide.md)
+- [Требования к микросервисам](/Microservices/microservices%20requirements/microservices%20requirements.md)
+- [Паттерн Saga](/Microservices/Saga%20pattern/Saga%20pattern.md)
+- [Взаимодействие микросервисов](/Microservices/Interaction%20of%20microservices/Interaction%20of%20microservices.md)
 
 ## Database
 
 - [Типы моделей баз данных](/Database/Database%20Types/database%20types.md)
+- [Для чего нужны индексы в базе данных?](/Database/Why%20are%20indexes%20needed%20in%20a%20database/Why%20are%20indexes%20needed%20in%20a%20database.md)
 - [Типы индексов базы данных Postgres](/Database/Type%20of%20indexes%20Postgres/type%20of%20indexes.md)
 - [10 лучших практик индексирования базы данных Postgres](/Database/Database%20Indexes/10%20Index%20Best%20Practices.md)
 
