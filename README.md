@@ -1,6 +1,6 @@
-# Analyst-s-Notes
-Полезные материалы для "Системного аналитика"
+# Notes of a Systems Analyst
 
+![alt text](image/Notes%20of%20a%20Systems%20Analyst.png)
 
 ## SDLC
 
@@ -39,6 +39,13 @@
 - [Требования к микросервисам](/Microservices/microservices%20requirements/microservices%20requirements.md)
 - [Паттерн Saga](/Microservices/Saga%20pattern/Saga%20pattern.md)
 - [Взаимодействие микросервисов](/Microservices/Interaction%20of%20microservices/Interaction%20of%20microservices.md)
+
+## Integration
+
+- [Основополагающие примеры использования интеграции](/Integration%20technology/Foundational%20integration%20use%20cases.md)
+- [File Transfer And MFTs](/Integration%20technology/File%20Transfer%20and%20MFTs.md)
+- [Publisher-Subscriber pattern (pub/sub messaging)](/Integration%20technology/Publisher-Subscriber%20pattern.md)
+
 
 ## Database
 
