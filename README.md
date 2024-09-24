@@ -9,6 +9,7 @@
 ## Требования
 - [Иерархия требований к продукту ](/Product%20Requirements%20Hierarchy/product%20requirements%20hierarchy.md)
 - [Методы сбора требований](/Techniques%20for%20Requirement%20Gathering/Techniques%20for%20Requirement%20Gathering.md)
+- [Что такое Бизнес-требования (BRD) ?](/BRD/BRD.md)
 - [Функциональные и нефункциональные требования](/Functional%20VS%20Non-Functional/Functional%20VS%20Non-Functional.md)
 - [User Story and User Story map](/User%20Story/User%20Story.md)
 - [Какие выводы можно сделать, получив user story map проекта?](/Requirements/what%20conclusions%20can%20be%20drawn%20from%20the%20user%20story%20map%20of%20a%20project/what%20conclusions%20can%20be%20drawn%20from%20the%20user%20story%20map%20of%20a%20project.md)
