@@ -32,7 +32,7 @@
 - [gRPC против REST: различия между архитектурными стилями API](/API/gRPC%20vs%20REST/gRPC%20vs%20REST.md)
 - [Как создать исчерпывающую документацию API](/API/How%20to%20create%20comprehensive%20API%20documentation/API%20documentation.md)
 - [Что такое Open API? Преимущества, недостатки и примеры](/API/Open%20API/Open%20API.md)
-- [Пример cоздание Swagger-документации](/API/Creating%20Swagger%20documentation%20example/Creating%20Swagger%20documentation%20example.md)
+- [Пример cоздание Swagger-документации (OpenAPI)](/API/Creating%20Swagger%20documentation%20example/Creating%20Swagger%20documentation%20example.md)
 
 
 ## Microservices
@@ -81,6 +81,7 @@
 ## Tools
 
 - [VS Code](/Tools/VS%20code.md)
+- [GIT](/Tools/Git/Git.md)
 
 
 
