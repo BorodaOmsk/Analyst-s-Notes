@@ -81,7 +81,7 @@
 ## Tools
 
 - [VS Code](/Tools/VS%20code.md)
-- [GIT](/Tools/Git/Git.md)
+- [Git](/Tools/Git/Git.md)
 
 
 
